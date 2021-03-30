@@ -2,11 +2,12 @@
 
 Este é um projeto realizado na Semana js-expert 3.0, ele consiste em uma aplicação de chat com comunicação em tempo real que roda em terminal (Prompt de comando).
 
-O projeto foi desonvolvido com o Builder pattern,  Web Socket para realizar a comunicação em tempo real e o blessed para gerar a interface de terminal, além de é claro Node.js
+O projeto foi desonvolvido com o design pattern <b>Builder</b>,  <b>Web Socket nativo</b> (sem bibliotecas externas, vulgo socket.io)  através do protocolo http/https para realizar a comunicação em tempo real e o blessed para gerar a interface de terminal, além de é claro <b>Node.js</b>.
 
 ## Principais bibliotecas/frameworks
 *  [NodeJS](https://nodejs.org/en/)
 *  [Blessed](https://github.com/chjj/blessed)
+*  Builder pattern
 
 
 ## O que é necessário
