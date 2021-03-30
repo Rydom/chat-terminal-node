@@ -1,4 +1,4 @@
-# chat-terminal-node
+# Chat Terminal
 
 Este é um projeto realizado na Semana js-expert 3.0, ele consiste em uma aplicação de chat com comunicação em tempo real que roda em terminal (Prompt de comando).
 
