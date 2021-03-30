@@ -26,8 +26,8 @@ Esse projeto consiste em duas aplicações, client e server. Para inicializar o 
 
 Caso queira fazer modificações sugiro que utilize o comando: `npm run dev`.  Com esse comando o servidor irá utilizar a biblioteca [Nodemon](https://nodemon.io/) que atualiza a aplicação sempre que houver modificações nos arquivos do projeto.
 
-### Client
-Para usar o client e se conectar ao chat, abra um novo terminal e entre na pasta client, após isso utilize o comando: `npm run user01`.
+### Cliente
+Para usar o cliente e se conectar ao chat, abra um novo terminal e entre na pasta client, após isso utilize o comando: `npm run user01`.
 Você também pode utilizar alguns scripts definidos no package.json como user02, user03 e user04 para se conectar ao chat rodando em localhost.
 
 #### Produção
