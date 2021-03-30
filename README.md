@@ -38,4 +38,4 @@ Para definir essa variável, dentro do projeto client vá para "scr/cliConfig.js
 
  `const PRODUCTION_URL = '<URL PRODUCTION>'`.
 
-Agora basta trocar `<URL Production>` pela url onde está hospedado o seu servidor.
+Agora basta trocar `<URL PRODUCTION>` pela url onde está hospedado o seu servidor.
